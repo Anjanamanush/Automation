@@ -1,0 +1,11 @@
+test_supermarket\AdminSearchTest.class
+test_supermarket\ManageProductTest.class
+test_supermarket\ManageNewsSearchTest.class
+test_supermarket\AdminUserPageTest.class
+test_supermarket\HomePageTest.class
+test_supermarket\ManageNewsTest.class
+generate_report\Listeners.class
+test_supermarket\ManageCategoryTest.class
+test_supermarket\Base.class
+retry\Retry.class
+test_supermarket\LoginTest.class

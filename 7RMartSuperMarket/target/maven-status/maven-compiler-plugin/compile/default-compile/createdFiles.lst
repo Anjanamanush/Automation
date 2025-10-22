@@ -1,0 +1,16 @@
+supermarket\AdminUserPageClass.class
+supermarket\ManageProductClass.class
+utilities\ExtendReport_Utility.class
+supermarket\LoginpageClass.class
+utilities\ExcellUtilities.class
+supermarket\AdminSearchClass.class
+utilities\Faker_Utility.class
+utilities\Screenshot_Utility.class
+constants\Constant.class
+supermarket\ManageCategoryClass.class
+utilities\Page_Utility.class
+supermarket\ManageNewsSearchClass.class
+utilities\FileUploadUtility.class
+supermarket\ManageNewsClass.class
+utilities\WaitUtility.class
+supermarket\HomePageClass.class

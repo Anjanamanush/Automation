@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-22T11:41:08 IST" name="Parallel Testing" finished-at="2025-10-22T11:41:22 IST" duration-ms="14288">
+    <groups>
+    </groups>
+    <test started-at="2025-10-22T11:41:08 IST" name="parallel" finished-at="2025-10-22T11:41:22 IST" duration-ms="14288">
+      <class name="test_supermarket.ManageNewsTest">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:test_supermarket.ManageNewsTest@40ef3420]" started-at="2025-10-22T11:41:08 IST" name="beforeMethod" finished-at="2025-10-22T11:41:15 IST" duration-ms="6984" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addNews()[pri:0, instance:test_supermarket.ManageNewsTest@40ef3420]" started-at="2025-10-22T11:41:15 IST" name="addNews" finished-at="2025-10-22T11:41:21 IST" duration-ms="6631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNews -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test_supermarket.ManageNewsTest@40ef3420]" started-at="2025-10-22T11:41:21 IST" name="afterMethod" finished-at="2025-10-22T11:41:22 IST" duration-ms="539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addNews status=SUCCESS method=ManageNewsTest.addNews()[pri:0, instance:test_supermarket.ManageNewsTest@40ef3420] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test_supermarket.ManageNewsTest -->
+      <class name="test_supermarket.HomePageTest">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:test_supermarket.HomePageTest@15eb5ee5]" started-at="2025-10-22T11:41:08 IST" name="beforeMethod" finished-at="2025-10-22T11:41:15 IST" duration-ms="7228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="clickLogout()[pri:0, instance:test_supermarket.HomePageTest@15eb5ee5]" started-at="2025-10-22T11:41:15 IST" name="clickLogout" finished-at="2025-10-22T11:41:20 IST" duration-ms="4990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogout -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test_supermarket.HomePageTest@15eb5ee5]" started-at="2025-10-22T11:41:20 IST" name="afterMethod" finished-at="2025-10-22T11:41:21 IST" duration-ms="821" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickLogout status=SUCCESS method=HomePageTest.clickLogout()[pri:0, instance:test_supermarket.HomePageTest@15eb5ee5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test_supermarket.HomePageTest -->
+    </test> <!-- parallel -->
+  </suite> <!-- Parallel Testing -->
+</testng-results>
